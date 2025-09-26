@@ -3,29 +3,26 @@
 A simple Flutter mini project demonstrating state management using BLoC (Business Logic Component).
 The app provides a shopping experience where users can browse items, add them to the cart or wishlist, and manage them efficiently.
 
-## ✨ Features
+# ✨ Features
 
-# 📋 Home Page with Item List
+📋 Home Page with Item List
 Displays a list of products available for interaction.
-# ➕ Add to Cart
+➕ Add to Cart
 Users can add items to their shopping cart.
-# ➖ Remove from Cart
+➖ Remove from Cart
 Items can be removed from the cart when not needed.
-# ❤️ Add to Wishlist
+❤️ Add to Wishlist
 Save favorite items to a wishlist for later.
-# 💔 Remove from Wishlist
+💔 Remove from Wishlist
 Remove items from the wishlist when no longer needed.
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-# Flutter 
-Cross-platform UI toolkit
-# #BLoC Pattern 
-State management for predictable app behavior
-# Dart 
-Programming language
+Flutter – Cross-platform UI toolkit
+BLoC Pattern – State management for predictable app behavior
+Dart – Programming language
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 1. Clone the repository:
 git clone https://github.com/your-username/flutter-bloc-cart.git
@@ -36,10 +33,10 @@ flutter pub get
 4. Run the app:
 flutter run
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-## 🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
-# Understanding and implementing BLoC state management
-# Managing multiple states (Cart & Wishlist) in Flutter
-# Clean code structure for real-world Flutter apps
+Understanding and implementing BLoC state management
+Managing multiple states (Cart & Wishlist) in Flutter
+Clean code structure for real-world Flutter apps
